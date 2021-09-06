@@ -12,7 +12,7 @@ const logout = async () => {
         await projectAuth.signOut()
     }
     catch (err) {
-        console.log(err.message)
+        alert(err.message)
         error.value = err.message
     }
 }

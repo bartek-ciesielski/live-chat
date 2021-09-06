@@ -18,7 +18,6 @@ import { ref } from "vue";
 import useSignup from "../composables/useSignup";
 export default {
   setup(props, context) {
-    // console.log(context)
     // refs
     const displayName = ref("");
     const email = ref("");

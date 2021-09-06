@@ -23,6 +23,7 @@ import SignupForm from "../components/SignupForm.vue";
 import LoginForm from "../components/LoginForm.vue";
 import { ref } from "vue";
 import { useRouter } from "vue-router";
+
 export default {
   components: { SignupForm, LoginForm },
   setup() {
