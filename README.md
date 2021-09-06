@@ -1,9 +1,9 @@
-# live-chat
+# Live-Chat
 
-Web aplication in Vue 3 which enables sending and reading messages in realtime for logged in users.
+Web aplication in Vue 3 (composition API) which enables sending and reading messages in realtime for logged in users.
 
 Hosted and deployed via firebase hosting:
-[Live-chat](https://live-chat-a6040.firebaseapp.com/)
+[Live-Chat](https://live-chat-a6040.firebaseapp.com/)
 
 ## Features
 
@@ -15,8 +15,6 @@ Current features include:
 - writing and reading messages only for logged in users
 - realtime messages view
 - it can be used on desktops and mobiles (RWD)
-
-
 
 ## Creator
 
